@@ -2,3 +2,4 @@ from HarvestBalanceCalculator.Config import Loader
 from HarvestBalanceCalculator.HarvestTimeEntries import HarvestTimeEntries
 from HarvestBalanceCalculator.WorkingPreference import WorkingPreference
 from HarvestBalanceCalculator.WorkingTimeInterval import WorkingTimeInterval
+from HarvestBalanceCalculator.HolidaysChecker import HolidaysChecker

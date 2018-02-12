@@ -1,5 +1,6 @@
 class HarvestTimeEntries:
-    def __init__(self, time_entries):
+    def __init__(self, holidays_entries, time_entries):
+        self.holidays_entries = holidays_entries
         self.time_entries = time_entries
 
     def get_total_worked_time(self):

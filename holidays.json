@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "New Year's Day",
+    "date": "2017-01-01",
+    "movable": false,
+    "rerunId" : null
+  },
+  {
+    "id": 2,
+    "name": "Reprise 1er janvier",
+    "date": "2017-01-02",
+    "movable": true,
+    "rerunId" : 1
+  },
+  {
+    "id": 3,
+    "name": "Reprise Férié Pâques",
+    "date": "2017-04-14",
+    "movable": true,
+    "rerunId" : 4
+  },
+  {
+    "id": 4,
+    "name": "Lundi Pâques",
+    "date": "2017-04-16",
+    "movable": true,
+    "rerunId" : null
+  },
+  {
+    "id": 5,
+    "name": "Journée nationale des patriotes",
+    "date": "2017-05-22",
+    "movable": false,
+    "rerunId" : null
+  },
+  {
+    "id": 6,
+    "name": "Reprise 24 juin / Saint-Jean-Baptiste",
+    "date": "2017-06-23",
+    "movable": true,
+    "rerunId" : 7
+  },
+  {
+    "id": 7,
+    "name": "Fête nationale - Saint-Jean-Baptiste",
+    "date": "2017-06-24",
+    "movable": false,
+    "rerunId" : 4
+  },
+  {
+    "id": 8,
+    "name": "Reprise 1er juillet / Fête Canada",
+    "date": "2017-06-30",
+    "movable": true,
+    "rerunId" : 9
+  },
+  {
+    "id": 9,
+    "name": "Canada Day",
+    "date": "2017-07-01",
+    "movable": false,
+    "rerunId" : null
+  },
+  {
+    "id": 10,
+    "name": "Labour Day",
+    "date": "2017-09-04",
+    "movable": false,
+    "rerunId" : null
+  },
+  {
+    "id":11,
+    "name": "Thanksgiving Day",
+    "date": "2017-10-09",
+    "movable": true,
+    "rerunId" : null
+  },
+  {
+    "id": 12,
+    "name": "Christmas Day",
+    "date": "2017-12-25",
+    "movable": false,
+    "rerunId" : null
+  },
+  {
+    "id": 13,
+    "name": "Boxing Day",
+    "date": "2017-12-26",
+    "movable": false,
+    "rerunId" : null
+  }
+
+]
